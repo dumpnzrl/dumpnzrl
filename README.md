@@ -1,4 +1,8 @@
-### Hi there 👋
+### <i> Hi this is my dump </b>👋
+   <ul>
+  <li>jakarta, 23-4-2006</li>
+  <li>XI RPL 1</li>
+</ul> 
 
 <!--
 **dumpnzrl/dumpnzrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
