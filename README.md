@@ -1,4 +1,6 @@
 ### <i> Hi this is my dump </b>👋
+
+![foto](/akasuki.jpg "uu")
    <ul>
   <li>jakarta, 23-4-2006</li>
   <li>XI RPL 1</li>
